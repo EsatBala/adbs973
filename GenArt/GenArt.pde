@@ -2,7 +2,7 @@ PImage img;
 
 void setup() {
   size(950, 844);               // set canvas size
-  img = loadImage("Lionn.jpg"); // load image
+  img = loadImage("Lion.jpg"); // load image
   img.resize(950, 844);         // resize to fit canvas size
   background(0);                // set background to black
 }
